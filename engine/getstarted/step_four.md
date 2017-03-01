@@ -33,7 +33,7 @@ You run these steps in a terminal window on Linux or macOS, or a command prompt
 on Windows. Remember that if you are using macOS or Windows, you are still
 creating an image which runs on Linux.
 
-1.  Make a new directory. If you're on Windows, use `md` instead of `mkdir`.
+1.  Make a new directory.
 
     ```bash
     $ mkdir mydockerbuild
